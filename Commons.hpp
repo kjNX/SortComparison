@@ -3,7 +3,7 @@
 
 namespace Commons
 {
-    constexpr int DECK_SIZE{300};
+    inline constexpr unsigned DECK_SIZE{500000u};
 
     enum Cards
     {
